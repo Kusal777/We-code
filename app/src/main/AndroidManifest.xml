@@ -21,7 +21,6 @@
             android:name=".activities.DetailedActivity"
             android:exported="true" />
         <activity android:name=".activities.OnBoardingActivity" />
-        <activity android:name=".activities.MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
